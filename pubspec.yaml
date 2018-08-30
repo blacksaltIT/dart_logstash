@@ -1,0 +1,14 @@
+name: logstash
+description: Logstash plugin.
+version: 0.0.1
+author: Black Salt ltd. <akos.belakovics@blacksalt.io>
+homepage: https://github.com/blacksaltIT/flutter_logstash
+
+dependencies:
+  logging: ">=0.11.3 <0.12.0"
+
+environment:
+  sdk: '>=1.5.0 <3.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <2.0.0'
